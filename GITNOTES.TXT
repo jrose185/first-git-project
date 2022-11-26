@@ -6,3 +6,10 @@ git commit -m "first commit"  -> create a new version (commit)
 git branch -M main           - > creating a main branch
 git remote add origin https://github.com/jrose185/first-git-project.git  -> linking local repo and remote repo.When I push this oce this is the link
 git push -u origin main      -> sending the code to that link
+
+***Pushing the new codes after the first TIME
+   -add a new code : Notes2.txt
+   -git add .
+   -git commit -m "message"
+   -git push
+   
